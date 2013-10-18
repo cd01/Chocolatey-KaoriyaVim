@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>KaoriyaVim</id>
+    <title>KaoriyaVim</title>
+    <version>7.4</version>
+    <authors>kaoriya</authors>
+    <owners>cd01</owners>
+    <summary>Kaoriya Vim</summary>
+    <description>日本語をより扱い易くするための修正と追加されている香り屋版 Vim</description>
+    <projectUrl>http://www.kaoriya.net/software/vim/</projectUrl>
+    <tags>Vim</tags>
+    <licenseUrl>http://vimdoc.sourceforge.net/htmldoc/uganda.html#license</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn-ak.f.st-hatena.com/images/fotolife/c/cd01/20130516/20130516184345.png</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
